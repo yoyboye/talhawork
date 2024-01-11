@@ -1,0 +1,57 @@
+    1  vagrant status
+    2  whoami
+    3  vagrant status
+    4  clear
+    5  vagrant status
+    6  sudo apt update
+    7  vagrant status
+    8  vagrant halt
+    9  exit
+   10  sudo apt-get update
+   11  sudp apt update
+   12  sudo apt-get upgrade
+   13  vagrant status
+   14  sudo install vagrant
+   15  vagrant --help
+   16  install --help
+   17  vagrant version 
+   18  vagrant --version
+   19  clear
+   20  git
+   21  sudo apt install git-all
+   22  git status
+   23  git version
+   24  clear
+   25  cd .ssh
+   26  ls -lah
+   27  sudo key-gen
+   28  ssh key-gen
+   29  ssh-keygen
+   30  ls -lah
+   31  cat id_rsa.pub 
+   32  git clone git@github.com:yoyboye/talhawork.git
+   33  cd ~
+   34  ls
+   35  cd .ssh
+   36  ls
+   37  cd ..
+   38  git clone git@github.com:yoyboye/talhawork.git
+   39  ls
+   40  cd talhawork/
+   41  ls
+   42  clear
+   43  ls
+   44  vim README.md 
+   45  git status
+   46  git commit -m "Author changes name"
+   47  git config --global user.email"shaikh.49771@iqra.edu.pk"
+   48  git config --global user.name"yoyboye"
+   49  git status
+   50  git add README.md 
+   51  git status
+   52  git commit -m "Author and changes"
+   53  git config --global user.email "shaikh.49771@iqra.edu.pk"
+   54  git config --global user.name "yoyoboye"
+   55  git status
+   56  history
+   57  history > talha.txt
