@@ -1,0 +1,16 @@
+ 1.how to Create git branch ------------ git checkout b <branch name>
+
+2. how to move another branch?--------------git checkout "main"
+
+3. git add . ----jitni bh files m changes kei ose woh ek sath add krde ga.
+
+4.sudo apt update for ubuntu and sudo apt upgrade
+
+5. How to update branch in repository--------------------git push --set-upstream origin <brach_name>
+
+6.how megerge branches ..
+step 1 ----go to chechkout branch ----jis branch m merge krwana hai os branch m jayenge. 
+step 2-----git merge <branchname>
+step 3----- git pull 
+step 4 -----git push
+
